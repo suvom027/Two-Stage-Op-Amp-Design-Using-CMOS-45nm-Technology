@@ -73,9 +73,11 @@ The op-amp employs a standard two-stage Miller-compensated topology:
 
 ```
 <p>
-   <img width="691" height="519" alt="Image" src="https://github.com/user-attachments/assets/a910d9df-748f-4e16-befa-945e4047ce82" />
+    <img src="https://github.com/user-attachments/assets/a910d9df-748f-4e16-befa-945e4047ce82" 
+         alt="Image" 
+         width="691" 
+         height="519">
 </p>
-
 
 ```
 
